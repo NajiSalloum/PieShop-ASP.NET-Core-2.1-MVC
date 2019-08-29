@@ -1,0 +1,27 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url('/images/pattern1.png');
+    background-repeat: repeat;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.thumbnail p, .thumbnail h3 {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.MyNavBarLogin {
+    margin-left: 800px;
+}
+.MyNavBarLogout {
+    margin-left: 700px;
+}
+
+.RegisterForm{
+    margin-left: 80px;
+}
